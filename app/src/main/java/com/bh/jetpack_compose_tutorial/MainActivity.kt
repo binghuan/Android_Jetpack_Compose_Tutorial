@@ -5,7 +5,7 @@ import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
 import com.bh.jetpack_compose_tutorial.ui.theme.JetpackComposeTutorialTheme
 import com.bh.jetpack_compose_tutorial.data.SampleData
-import com.bh.jetpack_compose_tutorial.ui.Conversation
+import com.bh.jetpack_compose_tutorial.ui.components.Conversation
 
 
 class MainActivity : ComponentActivity() {
