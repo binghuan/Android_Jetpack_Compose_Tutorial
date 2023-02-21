@@ -1,6 +1,5 @@
 package com.bh.jetpack_compose_tutorial.ui.components
 
-import android.content.res.Configuration
 import androidx.compose.animation.animateColorAsState
 import androidx.compose.animation.animateContentSize
 import androidx.compose.foundation.Image
@@ -18,7 +17,6 @@ import androidx.compose.ui.res.painterResource
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import com.bh.jetpack_compose_tutorial.R
-
 import com.bh.jetpack_compose_tutorial.model.Message
 import com.bh.jetpack_compose_tutorial.ui.theme.JetpackComposeTutorialTheme
 
