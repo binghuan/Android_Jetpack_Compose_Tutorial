@@ -1,7 +1,9 @@
 # Android_Jetpack_Compose_Tutorial
 =====================
 
-Ref: <https://developer.android.com/jetpack/compose/tutorial>
+Ref: 
+<https://github.com/android/compose-samples>
+<https://developer.android.com/jetpack/compose/tutorial>
 
 ## TUTORIAL
 ### Jetpack Compose Tutorial
