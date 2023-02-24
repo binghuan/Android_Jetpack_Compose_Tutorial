@@ -26,6 +26,7 @@ Ref:
     - [Lesson 4: Lists and animations](#lesson-4-lists-and-animations)
       - [Create a list of messages](#create-a-list-of-messages)
       - [Animate messages while expanding](#animate-messages-while-expanding)
+  - [Comparison between Android Compose and iOS SwiftUI](#comparison-between-android-compose-and-ios-swiftui)
 
 
 ## TUTORIAL
@@ -137,3 +138,7 @@ By using Compose’s state APIs like remember and mutableStateOf, any changes to
 
 ---
 Now you can change the background of the message content based on isExpanded when we click on a message. You will use the clickable modifier to handle click events on the composable. Instead of just toggling the background color of the Surface, you will animate the background color by gradually modifying its value from MaterialTheme.colors.surface to MaterialTheme.colors.primary and vice versa. To do so, you will use the animateColorAsState function. Lastly, you will use the animateContentSize modifier to animate the message container size smoothly:
+
+## Comparison between Android Compose and iOS SwiftUI
+![](./README/android_compose.png)
+![](./README/ios_swiftui.png)
